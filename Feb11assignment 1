@@ -1,0 +1,14 @@
+Sno=int(input("enter student number:"))
+Sname=input("enter student name:"))
+Sid=int(input("enter student id:")) 
+Sgroup=input("enter group name:"))
+S1=int(input("enter maths marks:"))
+S2=int(input("enter statistics marks:"))
+S3=int(input("enter computer marks:"))
+S4=int(input("enter telugu marks:"))
+S5=int(input("enter english marks:"))
+S6=int(input ("enter analytic skill marks:"))
+If S1>=40and S2>=40and S3>=40and S4>=40and S5>=40and S6>=40:
+  Print("pass")
+Else:
+  Print ("fail")
