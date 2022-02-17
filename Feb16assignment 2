@@ -1,0 +1,5 @@
+n=int(input("enter number"))
+n=1
+if n<=10:
+ Print("square of n", n*n")
+ n=n+1
